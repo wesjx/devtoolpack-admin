@@ -28,8 +28,8 @@ const roboto = Roboto({
 })
 
 export const metadata: Metadata = {
-  title: "DevTooPack",
-  description: "Your dev tool box.",
+  title: "Admin - DevTooPack",
+  description: "Your dev tool box admin.",
 };
 
 export default function RootLayout({
